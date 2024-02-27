@@ -39,6 +39,7 @@ http://43.205.237.12:31337/wp-admin/post.php
 5. Choose any file from your local system to upload. This could be any type of file, as the focus here is on triggering the XSS vulnerability
 
 6. Once the upload completes, if the XSS vulnerability is successfully triggered, you should see a JavaScript alert pop up with the message "1" or any other message you specified in the alert
+
 <a href="https://ibb.co/Yj1Ntjn"><img src="https://i.ibb.co/x5B2M59/image.png" alt="image" border="0"></a>
   
 ## Affected Demograpic
