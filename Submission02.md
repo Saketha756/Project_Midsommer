@@ -72,6 +72,9 @@ This vulnerability can occur when a malicious user uploads an SVG file containin
  
  - **Implement File Validation and Sanitization**
 
+## Also This vulnerability can exploit as Content Injection vulnerability
+https://wpscan.com/vulnerability/1527ebdb-18bc-4f9d-9c20-8d729a628670/
+
  
 
 ## References
